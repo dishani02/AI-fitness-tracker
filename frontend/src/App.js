@@ -14,6 +14,7 @@ function HeroPage({ onStart, onReset, hasData }) {
           Enter a few details and let the AI tailor your workouts and meals to your goals. Clear,
           actionable guidance without the guesswork.
         </p>
+<<<<<<< HEAD
         <div className="hero-actions">
           <button className="button primary button-small" onClick={onStart}>
             Get started
@@ -29,6 +30,10 @@ function HeroPage({ onStart, onReset, hasData }) {
 
 
 
+=======
+      </header>
+    </section>
+>>>>>>> 4fda20d73603937bfe2d605b595fc075e81f9452
   );
 }
 
